@@ -22,15 +22,14 @@ Need a StrayaCoin brainwallet tool?  Please get in touch and I'll build one.
 
 Tips appreciated (NAH): **SbeerZc94FdsXBJ6M8B25ajuXGfRDMMEbK**
 
-BTC: **bc1q3f5yvkshpjev7ensx69nwmnh5ntugr6ezhaj0v** or **3EpHS7ynKmaR22XntV1hd4giK4eQP5zt3A**
-ZCash: **t1Z5Stqc9rgpmGCGfv1HQ9sbY2FYQDTYt21**
-DASH: **Xe4cmoxdfKtCtyQbHmJ1V1K1b4c4HnFq3p**
-BCH: **bitcoincash:qp7pkgx6xhacdatqxpje2vnzgjftvyq6hscts3j45p**
-ETH: **0x42596Ba55d8addfc1292A0FbF76320111C50237B**
-Bitcoin SV: **qpk77fe8uvyr7u7vly46sg04ad287vu3tqrafumnc9**
-Peercoin: **PQmA13x3Pj3x5ip1rrCLcid4RRv9UK9ucp**
-LTC: **ltc1qpqvft9fa7mc6979nfevj7dgjk5d8wwzpmyrznk**
-
+BTC: **bc1q3f5yvkshpjev7ensx69nwmnh5ntugr6ezhaj0v** or **3EpHS7ynKmaR22XntV1hd4giK4eQP5zt3A** 
+ZCash: **t1Z5Stqc9rgpmGCGfv1HQ9sbY2FYQDTYt21** 
+DASH: **Xe4cmoxdfKtCtyQbHmJ1V1K1b4c4HnFq3p** 
+BCH: **bitcoincash:qp7pkgx6xhacdatqxpje2vnzgjftvyq6hscts3j45p** 
+ETH: **0x42596Ba55d8addfc1292A0FbF76320111C50237B** 
+Bitcoin SV: **qpk77fe8uvyr7u7vly46sg04ad287vu3tqrafumnc9** 
+Peercoin: **PQmA13x3Pj3x5ip1rrCLcid4RRv9UK9ucp** 
+LTC: **ltc1qpqvft9fa7mc6979nfevj7dgjk5d8wwzpmyrznk** 
 
 Note: For generating a Zcash or Zclassic address please see the Z repo: https://github.com/exploitagency/vanitygen_z
 
